@@ -1,0 +1,57 @@
+{
+	"Goeppingen"	:	{
+							"CodeSearchEnable" 			: 	False,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://229-iz.impfterminservice.de/impftermine/service?plz=73037",
+							"RefCodes"					:	[["ABCD", "EFGH", "IJKL"]]
+						},
+		
+	"Waiblingen"	:	{
+							"CodeSearchEnable" 			: 	True,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://229-iz.impfterminservice.de/impftermine/service?plz=71334",
+							"RefCodes"					:	[[]]
+						},
+	"Esslingen"		:	{
+							"CodeSearchEnable" 			: 	False,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://229-iz.impfterminservice.de/impftermine/service?plz=73730",
+							"RefCodes"					:	[[]]
+						},
+	"S_RBKrankenhaus":	{
+							"CodeSearchEnable" 			: 	True,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://229-iz.impfterminservice.de/impftermine/service?plz=70376",
+							"RefCodes"					:	[[]]
+						},		
+	"S_Klinikum"	:	{
+							"CodeSearchEnable" 			: 	False,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://229-iz.impfterminservice.de/impftermine/service?plz=70174",
+							"RefCodes"					:	[[]]
+						},		
+	"Ludwigsburg"	:	{
+							"CodeSearchEnable" 			: 	False,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://005-iz.impfterminservice.de/impftermine/service?plz=71636",
+							"RefCodes"					:	[[]]
+						},		
+	"Sindelfingen"	:	{
+							"CodeSearchEnable" 			: 	False,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://229-iz.impfterminservice.de/impftermine/service?plz=71065",
+							"RefCodes"					:	[[]]
+						},
+	"Heilbronn"	:	{
+							"CodeSearchEnable" 			: 	False,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://002-iz.impfterminservice.de/impftermine/service?plz=74081",
+							"RefCodes"					:	[[]]
+						},
+	"Ilsfeld"	:	{
+							"CodeSearchEnable" 			: 	False,
+							"AppointmentSearchEnable"	: 	False,
+							"Link"						:	"https://003-iz.impfterminservice.de/impftermine/service?plz=74360",
+							"RefCodes"					:	[[]]
+						}							
+}
